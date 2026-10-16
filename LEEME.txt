@@ -1,0 +1,13 @@
+CUPRUM - DEMOSTRACIÓN DE TIENDA CON PÁGINAS SEPARADAS
+
+Para verla en Windows: extrae el ZIP y abre index.html.
+
+Páginas incluidas:
+- index.html: inicio con presentación de la marca.
+- catalogo.html: catálogo de productos con buscador y filtro.
+- nosotros.html: información sobre CUPRUM.
+- contacto.html: ubicación y enlace a Instagram.
+
+El botón “Descubrir la colección” abre catalogo.html, en lugar de bajar por la misma página.
+
+Esta es una demostración local; todavía no procesa pagos ni registra pedidos reales. Los precios y la disponibilidad deben confirmarse antes de publicar.
